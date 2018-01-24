@@ -1,4 +1,4 @@
-const app = "I don't do much."
+var kittens = ["milo"]
 
 function destructivelyAppendKitten(name){
  return [name.push(kitten)]
