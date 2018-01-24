@@ -20,8 +20,8 @@ function appendKitten(Broom){
   [...kittens, Broom]
 }
 
-function prependKitten(name){
-  [name,...kittens]
+function prependKitten(Arnold){
+  [Arnold,...kittens]
 }
 
 function removeLastKitten(){
